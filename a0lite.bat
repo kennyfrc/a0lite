@@ -1,6 +1,6 @@
 @echo off
 
-rem set PYTHON_CMD="C:\Python\python.exe"  <-- Comment ;)
+rem set PYTHON_CMD="C:\Python\python.exe"
 set PYTHON_CMD="python.exe"
 
 set BASEDIR=%~dp0
