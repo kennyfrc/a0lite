@@ -1,3 +1,5 @@
+#!/Users/kennyfrc/Documents/code/chess/a0lite/env/bin/python3
+
 import search
 import chess
 import chess.pgn
