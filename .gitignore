@@ -1,6 +1,6 @@
 **/__pycache__
 env/
-
 *.log
-
 test*
+.DS_Store
+*.log

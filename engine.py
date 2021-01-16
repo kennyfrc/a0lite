@@ -1,4 +1,4 @@
-#!/Users/kennyfrc/Documents/code/chess/a0lite/env/bin/python3
+#!/usr/local/bin/python3
 
 import search
 import chess
