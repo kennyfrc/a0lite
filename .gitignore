@@ -1,7 +1,7 @@
 **/__pycache__
 env/
-
 *.log
+<<<<<<< HEAD
 
 test*
 
