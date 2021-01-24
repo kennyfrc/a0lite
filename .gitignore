@@ -4,3 +4,8 @@ env/
 *.log
 
 test*
+
+.DS_Store
+
+# haven't figured this one out yet
+badgyal/maia*

@@ -10,3 +10,5 @@ from badgyal.letorchnet import LETorchNet
 from badgyal.menet import MENet
 from badgyal.policy_index import policy_index
 from badgyal.board2planes import board2planes, bulk_board2planes
+from badgyal.jnet import JNet
+# from badgyal.maia import MaiaNet

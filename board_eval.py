@@ -35,7 +35,7 @@ def render(squares,width=5):
 
 
 def main():
-    net = badgyal.MGNet(cuda=False)
+    net = badgyal.JNet(cuda=False)
     squares = eval_board(net)
     render(squares)
 
